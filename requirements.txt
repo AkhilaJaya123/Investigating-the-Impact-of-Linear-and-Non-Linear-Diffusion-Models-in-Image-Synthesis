@@ -1,0 +1,9 @@
+### ✅ `requirements.txt`
+
+torch
+torchvision
+numpy
+matplotlib
+scikit-image
+tqdm
+lpips
