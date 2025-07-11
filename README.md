@@ -34,5 +34,7 @@ Diffusion models offer strong generative capabilities, but the effectiveness of 
 - Cosine schedule produces clearer, sharper digits with better structural retention.
 - Quantitative improvements observed across all metrics (SSIM, PSNR, MSE).
 
-## Folder Structure
+
+
+
 
