@@ -34,6 +34,9 @@ Diffusion models offer strong generative capabilities, but the effectiveness of 
 - Cosine schedule produces clearer, sharper digits with better structural retention.
 - Quantitative improvements observed across all metrics (SSIM, PSNR, MSE).
 
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 
 
