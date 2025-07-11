@@ -19,7 +19,7 @@ Diffusion models offer strong generative capabilities, but the effectiveness of 
 - Used for both forward diffusion and reconstruction evaluation.
 
 ## Methodology
-
+![Flowchart](Screenshot 2025-07-11 183722.png)
 - **Forward Diffusion**: Add noise to images over 1000 steps.
 - **Noise Schedules**:
   - Linear: β increases linearly.
